@@ -1,5 +1,5 @@
-number system converter app done by group 30 
-croup members consist of:
+Number system converter app done by group 30 
+Group members consist of:
 Kariuki cyrus- CT101/G/18079/23
 Doris Nduta - CT101/G/21006/23
 Festus Cheruiyot - CT101/G/19767/23
